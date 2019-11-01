@@ -1,6 +1,7 @@
 # Intro to Data Science
 
 Problem Statement:
+
 The film industry is one of the largest revenue generator for the economy. It pays around $49 billion to local businesses and supports 2.1 million jobs and 400,000 local businesses across the country. This industry is the key driver of the U.S. economy. In this project, we try to predict the total box office revenue for a movie picked from the TMDB dataset.
 
 Dataset:
